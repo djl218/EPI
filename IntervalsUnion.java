@@ -7,6 +7,7 @@ import epi.test_framework.TimedExecutor;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
+import java.util.Set;
 public class IntervalsUnion {
 
   public static class Interval {
